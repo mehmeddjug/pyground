@@ -1,2 +1,2 @@
 # pyground
-Python play ground
+Python play ground: this repo is used for learning and experiments.

@@ -1,2 +1,6 @@
-# pyground
-Python play ground: this repo is used for learning and experiments.
+# pyshop
+Python e-commerce project:
+---
+Account management
+Register, modify and delete account
+---
